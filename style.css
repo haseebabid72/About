@@ -209,6 +209,14 @@ main .scroll {
     height: 55vh;
 }
 
+@media screen and (max-height: 900px) {
+    .UI-Text{
+        font-size: 22px;
+    }
+    .WB-Text{
+        font-size: 22px;
+    }
+}
 
 @media screen and (max-width: 1440px) {
 
